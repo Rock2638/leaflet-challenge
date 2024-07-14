@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-To access the published page, click this this:  [Leaflet Step-1 (rock2638.github.io)](https://rock2638.github.io/leaflet-challenge/Leaflet-Part-1/index.html)
+To access the published page, click this:  [Leaflet Step-1 (rock2638.github.io)](https://rock2638.github.io/leaflet-challenge/Leaflet-Part-1/index.html)
 
 ## Background ##
 
