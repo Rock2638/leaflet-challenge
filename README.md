@@ -1,10 +1,10 @@
 # leaflet-challenge
 
+To access the published page, click this this:  [Leaflet Step-1 (rock2638.github.io)](https://rock2638.github.io/leaflet-challenge/Leaflet-Part-1/index.html)
+
 ## Background ##
 
 The USGS (United States Geological Survey), is interested in building a new set of tools that will allow them to visualise their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. 
-
-To access the published page, click this this:  [Leaflet Step-1 (rock2638.github.io)](https://rock2638.github.io/leaflet-challenge/Leaflet-Part-1/index.html)
 
 ## Overview ##
 In this challenge, I develop a way to visualise USGS earthquake data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
